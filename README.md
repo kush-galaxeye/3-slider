@@ -1,2 +1,1 @@
-# drone-slider
-Drone coreg slider
+## Boiler plate for create-react-app
